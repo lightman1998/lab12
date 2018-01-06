@@ -7,7 +7,7 @@ the demo application redirects data from stdin to a file **log.txt** using a pac
 
 ## Terminal:
 ```ShellSession
-$ ./main https://yandex.ru
-Redirect to: https://yandex.ru/
+$ ./main https://pornhub.com/
+Redirect to: https://pornhub.com/
 Код ответа: 200
 ```
